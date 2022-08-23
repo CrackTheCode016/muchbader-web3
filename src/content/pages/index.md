@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: muchbader
+tagline: web3 dev and obsessed cat dad
+featuredImage: /assets/banner-3x.png
 cta:
   ctaText: Know more
   ctaLink: /about
