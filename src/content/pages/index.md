@@ -2,11 +2,14 @@
 template: index-page
 slug: /
 title: muchbader
-tagline: web3 dev and obsessed cat dad
-featuredImage: /assets/banner-3x.png
+tagline: i make stuff.  join me on learning everything web3 here.
+featuredImage: /assets/20200718_102626.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
+full stack[ web3](https://twitter.com/search?q=%23web3&src=hashtag_click), software, dlt dev 
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+chronic cat and coffee enjoyer 
+
+i make content and videos on [\#web3](https://twitter.com/search?q=%23web3&src=hashtag_click)
